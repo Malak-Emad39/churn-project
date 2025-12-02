@@ -51,5 +51,9 @@ This repository contains the source code, data, and visualizations for a custome
 - *Backend (if applicable):* Python (Flask/Django) / Node.js
 - *Data Processing:* Pandas, NumPy
 - *Version Control:* Git & GitHub
+<img width="1218" height="678" alt="overvieww" src="https://github.com/user-attachments/assets/be76a551-91a8-4de1-a6fc-570c7231e4d2" />
+<img width="1201" height="669" alt="Groups and categoryy" src="https://github.com/user-attachments/assets/eb3cf52e-9cf3-46ea-9d0d-ed0284bcb5c7" />
+<img width="1215" height="676" alt="contract and plann" src="https://github.com/user-attachments/assets/1c67fa6d-e785-4a98-976a-f7e5e85b84d5" />
+<img width="1208" height="673" alt="international plaan" src="https://github.com/user-attachments/assets/aa898009-2036-4839-b990-8deca078bcbc" />
 
 ## 📂 Repository Structure
